@@ -90,8 +90,6 @@
     caption: 'Minimalist bar bracelet in polished gold'
   },
 
-
-  
     {
     thumb: 'images/bracelet16.jpeg',
     hd: 'images/bracelet16.jpeg',
