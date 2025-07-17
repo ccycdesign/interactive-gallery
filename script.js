@@ -60,6 +60,7 @@
     caption: 'Adjustable rope bracelet with yin-yang charm'
   },
   
+  
     {
     thumb: 'images/bracelet11.jpeg',
     hd: 'images/bracelet11.jpeg',
